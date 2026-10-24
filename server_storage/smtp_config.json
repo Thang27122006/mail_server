@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 587,
+    "use_tls": true,
+    "sender_email": "tranthang20060903@gmail.com",
+    "sender_password": "gslz aion nbjy sxym",
+    "sender_name": "Python Mail Server"
+}

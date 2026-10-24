@@ -1,0 +1,7 @@
+Từ (From)      : danh
+Tới (To)        : thang
+Thời gian (Date): 2026-10-24 20:56:32
+Tiêu đề (Subject): ddd
+--------------------------------------------------
+Nội dung (Content):
+ddd

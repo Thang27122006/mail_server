@@ -1,0 +1,10 @@
+[INFO] Hệ thống Mail Server GUI sẵn sàng. Hãy bấm 'Khởi Động Server' để bắt đầu.
+[2026-10-04 21:35:04] ============================================================
+[2026-10-04 21:35:04]  MAIL SERVER ĐANG CHẠY TẠI 127.0.0.1:8888
+[2026-10-04 21:35:04]  Thư mục lưu trữ: e:\HOCTAP\nam3\ltm\mail_server\server_storage
+[2026-10-04 21:35:04]  Sẵn sàng tiếp nhận các kết nối client...
+[2026-10-04 21:35:04] ============================================================
+[2026-10-04 21:35:25] [CONNECTED] Client mới kết nối từ ('127.0.0.1', 49796)
+[2026-10-04 21:35:29] [LOGIN SUCCESS] User 'danh' đã đăng nhập thành công. Gửi 1 tên file về client.
+[2026-10-04 21:35:29] [READ EMAIL] User 'danh' đã đọc file 'new_email.txt'
+[2026-10-04 21:35:32] [READ EMAIL] User 'danh' đã đọc file 'new_email.txt'

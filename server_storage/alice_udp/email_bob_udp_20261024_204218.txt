@@ -1,0 +1,7 @@
+Từ (From)      : bob_udp
+Tới (To)        : alice_udp
+Thời gian (Date): 2026-10-24 20:42:18
+Tiêu đề (Subject): Chào mừng tới mạng máy tính UDP
+--------------------------------------------------
+Nội dung (Content):
+Đây là nội dung email gửi qua giao thức UDP Socket.

@@ -1,0 +1,7 @@
+Từ (From)      : bob
+Tới (To)        : alice
+Thời gian (Date): 2026-10-04 21:40:26
+Tiêu đề (Subject): Hẹn gặp thảo luận bài tập lớn
+--------------------------------------------------
+Nội dung (Content):
+Chào Alice! Chiều mai chúng ta gặp nhau ở thư viện để làm bài nhé.
