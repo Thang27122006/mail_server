@@ -1,6 +1,6 @@
 Từ (From)      : bob_udp
 Tới (To)        : alice_udp
-Thời gian (Date): 2026-10-24 20:42:18
+Thời gian (Date): 2026-10-25 22:19:16
 Tiêu đề (Subject): Chào mừng tới mạng máy tính UDP
 --------------------------------------------------
 Nội dung (Content):
